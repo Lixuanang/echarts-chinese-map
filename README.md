@@ -1,12 +1,6 @@
-# echarts3-chinese-map-drill-down
-Echarts3中国地图下钻至县级
+# echarts4-chinese-map-drill-down
+Echarts4中国地图下钻至县级
 
-demo：https://touxing.github.io/echarts3-chinese-map-drill-down/index.html
+![](https://cdn.nlark.com/yuque/0/2019/gif/378417/1560928525259-assets/web-upload/701bca61-afa4-4354-8bf8-b4f37899348f.gif)
 
-![map drill down](./static/img/map.gif)
-
-## 更新（2019-5-13）
-
-添加mock数据
-
-- [ ] 接入本地数据
+## 更新（2019-6-19）
