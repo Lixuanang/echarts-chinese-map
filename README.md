@@ -2,7 +2,7 @@
 
 Echarts4 中国地图下钻至县级
 
-![](static/img/demo.gif)
+![](./static/img/demo.gif)
 
 ## 更新（2019-6-19）
 
